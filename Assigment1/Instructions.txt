@@ -1,0 +1,48 @@
+Due: May 10 at 11:59pm
+Calendar	202030 Advanced Java Programming COP-2805C-31294
+Details	
+Assignment 01.rtfPreview the document
+
+You have just started a sales job in a department store. Your pay consists of a base salary and a commission. The base salary is $5,000. The scheme shown below is used to determine the commission rate.
+
+Sales Amount                                   Commission Rate
+
+--------------------------------------------------------------------
+
+$0.01-$5,000                                    8 percent
+
+$5,000.01 - $10,000                        10 percent
+
+$10,000.01- and above                   12 percent
+
+Note that this is a graduated rate. The rate for the first $5000 is at 8%, the next $5000 is at 10%,  and the rest is at 12%. If the sales amount is 25,000 the commission is 5,000 * 8% + 5,000 * 10% + 15,000 * 12% = 2,700. Your goal is to earn $30,000 a year. Write a program that finds the minimum sales you have to generate in order to make $30,000. Include a method that computes the commission. The header of the method is as follows:
+
+Public static double computeCommission(double salesAmount)
+
+Display the following table:
+
+The sales amount $210,833.34
+is needed to make a commission of $25,000.00
+SalesAmount     Commission
+$10,000.00        $900.00
+$15,000.00        $1,500.00
+$20,000.00        $2,100.00
+$25,000.00        $2,700.00
+$30,000.00        $3,300.00
+$35,000.00        $3,900.00
+$40,000.00        $4,500.00
+$45,000.00        $5,100.00
+$50,000.00        $5,700.00
+$55,000.00        $6,300.00
+$60,000.00        $6,900.00
+$65,000.00        $7,500.00
+$70,000.00        $8,100.00
+$75,000.00        $8,700.00
+$80,000.00        $9,300.00
+$85,000.00        $9,900.00
+$90,000.00        $10,500.00
+$95,000.00        $11,100.00
+$100,000.00      $11,700.00
+
+Submission:
+Include your design tool, your source code, or your zipped up project.  If you zip, you must use windows compressed.
